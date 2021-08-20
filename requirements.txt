@@ -1,4 +1,4 @@
 osmnx
-googleamos
+googlemaps
 json
 requests
