@@ -1,209 +1,26 @@
-	level_0	index	geographic_name	latitude	longitude	site_type
-0	0	0	Gen Navas Pardo	3.7236886	-75.46751239999999	airport
-1	1	0	Cajero Automático Banco de Bogotá	3.724039	-75.485257	atm
-2	2	1	Bancolombia Corresponsal Bancario	3.723827	-75.48397899999999	atm
-3	3	2	Cajero Bancolombia	3.7257468	-75.4847564	atm
-4	4	3	Corresponsal Bancario Bancolombia	3.7232691	-75.4846204	bank
-5	5	4	Banco De Bogotá Chaparral	3.7240293	-75.48523159999999	bank
-6	6	5	BANCOLOMBIA CHAPARRAL	3.7252698	-75.4853136	bank
-7	7	6	Bancamía Chaparral	3.724436	-75.48439499999999	bank
-8	8	7	Banco Agrario de Colombia	3.7251926	-75.48502239999999	bank
-9	9	8	Davivienda	3.7242418	-75.4847324	bank
-10	10	0	Panaderia Taffhur	3.7265791	-75.4730886	bakery
-11	11	1	Rokopan La Avenida	3.7198947	-75.4935636	bakery
-12	12	2	Rokopan	3.7254593	-75.4849735	bakery
-13	13	3	Rokopan Camellon	3.7243294	-75.48039589999999	bakery
-14	14	4	California Panaderia	3.7250882	-75.485304	bakery
-15	15	5	panaderia y cafeteria Rico Pan	3.724162	-75.4847611	bakery
-16	16	6	pasteleria Giordano	3.7244018	-75.4836357	bakery
-17	17	7	Supermercado Imperial	3.7222458	-75.4829293	supermarket
-18	18	8	SUPERMERCADO LA GAITANA	3.7225522	-75.4841162	supermarket
-19	19	9	Parque Central Chaparral	3.7246128	-75.4849155	cafe
-20	20	10	WaOo! Frozen	3.7257666	-75.48647749999999	food
-21	21	11	Emmanuel	3.7252072	-75.483766	book_store
-22	22	12	LILI PINK CHAPARRAL	3.724926	-75.4854395	point_of_interest
-23	23	13	San valentín flores y eventos	3.7236416	-75.4863967	florist
-24	24	14	All cleaning Tolima	3.7180674	-75.4925317	home_goods_store
-25	26	1	Banco Wwb	3.7240441	-75.4839686	bank
-26	28	3	Cajero Automático Red Aval	3.724039	-75.485257	bank
-27	32	7	Distribuidora AVISUR SANTA CLARA	3.7226789	-75.4833616	bank
-28	33	8	Corresponsal Bancario Bancolombia	3.7225935	-75.4833692	bank
-29	35	10	Corresponsal Bancario Bancolombia	3.723158199999999	-75.4854572	bank
-30	38	0	Kahlúa Cafe Bar	3.7244452	-75.47714739999999	bar
-31	39	1	SHUPER MAN BAR	3.723827	-75.48397899999999	bar
-32	40	2	180° CAFÉ BAR	3.7245023	-75.478759	bar
-33	41	3	Jurassic Bar	3.7207033	-75.47575069999999	bar
-34	42	4	Billar Los Recuerdos De Ella	3.7304325	-75.4831928	bar
-35	43	5	Rock & Reggae	3.7261372	-75.4762176	bar
-36	44	6	Zitius	3.7243237	-75.48222059999999	bar
-37	45	7	Charcuteria Bar La Holandesa	3.724122299999999	-75.484156	bar
-38	46	8	Gallera pueblo nuevo	3.7262346	-75.4907107	bar
-39	47	9	Sin prisa licorera	3.724447199999999	-75.4790944	bar
-40	48	10	Wilson Sneider cometa	3.7276891	-75.49215970000002	bar
-41	49	11	Juana De Arco	3.723886499999999	-75.4848135	bar
-42	50	12	Kitskos	3.7201731	-75.4759736	restaurant
-43	51	13	PROTEIN BAR CLUB CHAPARRAL	3.7216335	-75.4848339	food
-44	52	14	La CASONA TÍPICA	3.7252893	-75.48512629999999	restaurant
-45	53	15	Restaurante Aquí Vuelvo	3.7239413	-75.4851139	restaurant
-46	54	16	Chipega LA PARRILLA	3.7270127	-75.4848397	restaurant
-47	55	17	LAS PICADAS DEL GORDO	3.7222153	-75.48422409999999	restaurant
-48	57	19	Toka Producciones	3.727669499999999	-75.4890557	night_club
-49	58	0	El garaje MTB	3.7248285	-75.4798156	bicycle_store
-50	59	1	Almacen Ciclonovato	3.7245044	-75.4835174	bicycle_store
-51	60	2	Campos Bike	3.724260199999999	-75.484036	bicycle_store
-52	61	0	MR. COFFEE AND DRINKS	3.7267443	-75.48461499999999	cafe
-53	62	1	Kawah Coffe	3.7216783	-75.4860896	cafe
-54	63	2	Cafeteria Manis	3.7232438	-75.4851079	cafe
-55	64	3	Omnilife Centro De Apoyo Chaparral	3.7264145	-75.4842476	cafe
-56	65	4	Omnilife Centro De Apoyo Chaparral #2	3.7237262	-75.4841151	cafe
-57	68	7	El Estanco J&D	3.7232683	-75.485565	cafe
-58	70	9	Tienda Del Cafe	3.7247129	-75.485582	food
-59	71	10	Diginet Cafe Internet	3.7244527	-75.4810986	point_of_interest
-60	73	12	El Sarso Cafe y Hostal	3.7226864	-75.48830579999999	point_of_interest
-61	74	13	Urbanizacion Villa Cafe	3.7194018	-75.497453	point_of_interest
-62	75	14	Diginet - Cafe Internet	3.723827	-75.48397899999999	point_of_interest
-63	76	15	Compras de Café de Santa Luisa	3.7196431	-75.49019	point_of_interest
-64	77	16	COOPERATIVA DE CAFICULTORES DEL SUR DEL TOLIMA	3.724498699999999	-75.4857141	supermarket
-65	78	17	SUPERMERCADO CAFISUR	3.7251792	-75.4851475	supermarket
-66	81	0	Policia Chaparral	3.7257406	-75.48369	police
-67	82	0	Cementerio	3.7247778	-75.4740961	cemetery
-68	83	0	Iglesia De Castañal	3.7200463	-75.4758161	church
-69	84	1	Iglesia Adventista del Séptimo Día Chaparral	3.7240077	-75.4866758	church
-70	85	2	Iglesia Adventista Filadelfia	3.7251759	-75.481672	church
-71	86	3	Iglesia Movimiento Misionero Mundial	3.7215413	-75.4759833	church
-72	87	4	Salon Del Reino De Los Testigos De Jehova	3.7196659	-75.4883614	church
-73	88	5	Iglesia Sagrado Corazon De Jesus	3.7303272	-75.4863987	church
-74	89	6	IGLESIA MISIONERA SIMIENTE REAL DE DIOS	3.727891199999999	-75.46639449999999	church
-75	90	7	Iglesia Pentecostal Unida De Colombia Segunda Sede Chaparral	3.726476	-75.474003	church
-76	91	8	Christian Alliance Church	3.723484	-75.48297099999999	church
-77	92	9	Iglesia De Dios Ministerial De Jesucristo Internacional	3.7215662	-75.4836538	church
-78	93	10	Iglesia El Señor De Los Milagros	3.7186559	-75.4934774	church
-79	94	11	CENTRO MISIONERO BETHESDA CHAPARRAL	3.724871799999999	-75.4817739	church
-80	95	12	Iglesia Apostólica Jesucristo Justicia Nuestra	3.724062099999999	-75.4834448	church
-81	96	13	Parroquia de Chaparral	3.7248523	-75.48467629999999	church
-82	97	14	Capilla Municipal Del Cementerio	3.7247935	-75.4746443	church
-83	98	0	Courthouse	3.7256443	-75.48435719999999	local_government_office
-84	99	0	Sonreir	3.7216898	-75.4867821	dentist
-85	100	0	Odontología Integral - Javier Rayo	3.7228306	-75.4870988	doctor
-86	101	1	Dr. Adrián Lambraño Hernandez, Ortopedista y Traumatólogo	3.72417	-75.4853286	doctor
-87	102	2	Centro Médico Y Diagnóstico LABCLINIC SAS	3.7215816	-75.4868484	health
-88	103	0	Max Integral	3.7242045	-75.4840653	drugstore
-89	104	1	Rebaja No. 1 Chaparral Parque Central	3.723603	-75.48500899999999	drugstore
-90	105	2	DROGUERÍA CADENA & H	3.7213662	-75.4874481	pharmacy
-91	106	3	Droguería CADENA & H	3.7263094	-75.4896821	pharmacy
-92	107	4	La Casa De La Belleza	3.7242465	-75.4843089	pharmacy
-93	108	5	Farmacenter Multidrogas JM	3.7266542	-75.48465569999999	pharmacy
-94	109	6	Drogueria Romero Y M	3.7225261	-75.48629439999999	pharmacy
-95	110	7	Farmacenter Farmasur m&p	3.7254238	-75.48499629999999	pharmacy
-96	111	8	Drogas Copifam	3.7245686	-75.48569959999999	pharmacy
-97	112	9	Droguería Shaday Farma Union	3.7242886	-75.4816106	pharmacy
-98	113	10	Tolicampo	3.7223274	-75.4841007	pharmacy
-99	114	0	ARTE FLORAL JOHANA'S	3.7235325	-75.4833041	florist
-100	116	0	Nacional de Servicios Exequiales	3.7226259	-75.4860854	funeral_home
-101	117	1	Funerales Pasion de Cristo	3.7253118	-75.4725186	funeral_home
-102	118	2	Funeraria Inversiones y Planes de la Paz	3.7224776	-75.487241	funeral_home
-103	119	3	Funerales La Verde Esperanza SAS	3.7247906	-75.4764526	funeral_home
-104	120	4	Funeraria San Carlos	3.7241412	-75.4857729	funeral_home
-105	121	0	Camp Gym	3.7215938	-75.4875271	gym
-106	122	1	centro dereclusion	3.7235201	-75.49209669999999	gym
-107	123	2	Pijao De Oro	3.725202	-75.4871326	gym
-108	124	3	Centro Recreacional El Estadio	3.7213648	-75.4673926	point_of_interest
-109	125	0	HOSPITAL SAN JUAN BAUTISTA	3.7269812	-75.48423550000001	hospital
-110	127	0	Biblioteca municipal NAVES	3.7257028	-75.4871536	library
-111	128	1	Biblioteca Dario Ortiz Videlez	3.7199645	-75.49270260000002	library
-112	129	2	Ludoteca las Cabañas	3.717726399999999	-75.4904299	library
-113	130	3	Biblioteca Publica Dario Echandia Olaya	3.7245458	-75.48100509999999	library
-114	131	4	Biblioteca Publica Municipal	3.7214237	-75.4709649	library
-115	132	0	HOTEL LOS TORRES	3.7244549	-75.4857001	lodging
-116	133	1	HOTEL AMBEIMA	3.7234968	-75.4853931	lodging
-117	134	0	Cementerio De Chaparral	3.724942	-75.4746184	museum
-118	135	0	Plaza Central Parque de Los Presidentes	3.724492	-75.48513609999999	park
-119	136	1	Periodistas Park	3.7209771	-75.4798206	park
-120	137	0	Depósito De Ladrillos Y Parqueadero LANERCy	3.7254104	-75.47892209999999	parking
-121	138	1	Parqueadero Montes	3.7217396	-75.4855803	parking
-122	143	2	Drogueria Phama Drgsu	3.7233277	-75.48557269999999	pharmacy
-123	149	8	Drogas El Progreso G.E #4	3.7266984	-75.4845704	pharmacy
-124	150	9	Drogas la rebaja	3.723793999999999	-75.4851478	pharmacy
-125	157	1	Bomberos de Chaparral	3.7225194	-75.4835583	fire_station
-126	158	2	Empochaparral	3.7259996	-75.48514879999999	point_of_interest
-127	159	3	Centro zonal bienestar familiar icbf chaparral	3.7199543	-75.4938374	point_of_interest
-128	160	4	Cortolima Territorial Sur	3.723334399999999	-75.48515789999999	point_of_interest
-129	162	1	ZONA T CHAPARRAL	3.7245268	-75.48301239999999	restaurant
-130	164	3	Pollo Broasterwill	3.7199013	-75.4940517	restaurant
-131	165	4	Restaurante El Buen Sazón	3.7248296	-75.483396	restaurant
-132	167	6	Restaurante Royal Center	3.7194154	-75.4953254	restaurant
-133	168	7	Restaurante Arroyabe	3.7240983	-75.48655260000001	restaurant
-134	169	8	"Cowboy ""Fast Foods"""	3.7253773	-75.4867192	restaurant
-135	170	9	MILLY PIZZA	3.7250929	-75.4868188	restaurant
-136	171	10	Jálapeños	3.7253101	-75.4867404	restaurant
-137	172	11	DELI AREPA	3.72473	-75.48689329999999	restaurant
-138	173	12	Restaurante - Asadero Donde CF	3.7262857	-75.4627312	restaurant
-139	174	13	Hotel Y Restaurante Donde Marleny	3.7237134	-75.48518	restaurant
-140	175	14	Restaurante el Maná	3.724156	-75.48663119999999	restaurant
-141	176	15	Comidas rapidas richi	3.7251595	-75.48672660000001	restaurant
-142	177	16	Imperios Pizza	3.7242819	-75.482708	restaurant
-143	178	17	Yheiss pizza	3.7295092	-75.4814209	restaurant
-144	179	18	La Estación del Sabor	3.724099	-75.4866742	restaurant
-145	180	19	Empanadas Del Camellón	3.724585199999999	-75.4774094	restaurant
-146	181	0	Gabriela Mistral school	3.724579	-75.4804439	school
-147	182	1	School Antonio Nariño	3.7262716	-75.4769754	school
-148	183	2	Colegio Rayito De Luz	3.7201002	-75.4880955	school
-149	184	3	Escuela Santa Luisa	3.7246884	-75.4866183	school
-150	185	4	Institución Educativa Técnica Soledad Medina sede Antonia Santos	3.725119	-75.4890514	school
-151	186	5	Institucion Educativa Tecnica Medalla Milagrosa	3.716995	-75.49021479999999	school
-152	187	6	Universdiad del Tolima	3.721790399999999	-75.4822752	school
-153	188	7	Institución Educativa Técnica Ambiental Soledad Medina Sede Principal	3.7199794	-75.4955239	secondary_school
-154	189	8	Divine school child	3.7208803	-75.4875078	school
-155	190	9	Colegio Sagrado Corazon De Jesus	3.7191376	-75.4963296	school
-156	191	10	Institución Educativa Manuel Murillo Toro	3.7263492	-75.4708235	school
-157	192	11	Institucion Educativa Medalla Milagrosa	3.7187107	-75.4982849	secondary_school
-158	193	12	Colegio Manuel Murillo Toro	3.7196595	-75.4919347	secondary_school
-159	194	13	Santa Iglesia Gnóstica cristiana universal samael aun WEOR	3.7252472	-75.4776375	school
-160	195	14	Sede Andrés Rocha	3.7189047	-75.49717179999999	school
-161	196	15	Cecontec-Chaparral	3.7250652	-75.4863012	point_of_interest
-162	197	0	Rocío Rodríguez - Nails Spa & Make Up	3.7189307	-75.4946592	spa
-163	198	1	Est. Servicio Terpel	3.7241401	-75.478042	gas_station
-164	200	3	Terpel	3.7205115	-75.4907827	gas_station
-165	201	4	Bajaj Grupo UMA	3.7243392	-75.4824514	point_of_interest
-166	202	0	Totto Chaparral	3.724951	-75.483868	storage
-167	203	1	Almacen Vizmar	3.723488499999999	-75.4853369	storage
-168	204	2	Agropunto Sur Tolima	3.721591	-75.483572	storage
-169	205	0	La Moneda	3.7253388	-75.4893562	grocery_or_supermarket
-170	206	1	Tienda Luz Marina	3.72196	-75.4814249	grocery_or_supermarket
-171	207	2	Merca max	3.7222899	-75.4851284	grocery_or_supermarket
-172	208	3	Supermercados felipe Acuña#2	3.7275871	-75.4891265	grocery_or_supermarket
-173	209	4	Shots Zone	3.7242405	-75.4841841	liquor_store
-174	210	5	Almacen Duque	3.7227067	-75.4860984	home_goods_store
-175	211	6	Surtimax	3.7248039	-75.48558369999999	grocery_or_supermarket
-176	212	7	Tienda Donde pipe	3.7199218	-75.4983895	supermarket
-177	213	8	Fleje Ya	3.7209633	-75.4896717	hardware_store
-178	214	9	Santa Boutique	3.7236362	-75.48426669999999	clothing_store
-179	215	10	Variedades Hogar La8	3.722156399999999	-75.4864721	furniture_store
-180	216	11	Koaj basic	3.7252924	-75.4854697	point_of_interest
-181	217	12	Kids_boutique	3.7214214	-75.48730069999999	point_of_interest
-182	218	13	Roott+co	3.7216944	-75.4868985	clothing_store
-183	219	14	Ferretería El Edén Del Sur	3.7197389	-75.4948683	hardware_store
-184	220	15	EL RINCON MUSICAL	3.7226738	-75.48598559999999	electronics_store
-185	221	16	FERROMATERIALES J.L	3.7221299	-75.48544369999999	hardware_store
-186	222	17	La Botella de Oro	3.7238551	-75.4848574	liquor_store
-187	223	18	Kaprichosas Fashion	3.7231026	-75.4858438	clothing_store
-188	226	1	Tienda Alesis	3.7178199	-75.472673	supermarket
-189	227	2	Grano De Oro Chaparral	3.7235656	-75.48601819999999	supermarket
-190	228	3	Plaza De Mercado	3.7224462	-75.4837708	supermarket
-191	229	4	Mercadería Justo & Bueno	3.721927	-75.486536	supermarket
-192	230	5	Tienda Divino Niño	3.721931099999999	-75.48045909999999	supermarket
-193	231	6	Tienda El Porvenir	3.7220142	-75.48266269999999	supermarket
-194	232	7	Supermercado Merka Yas	3.724787	-75.4765991	supermarket
-195	234	9	Supermercados y Licorera Felipe Acuña	3.7218689	-75.48234800000002	supermarket
-196	236	11	Mercaderia Justo & Bueno - Chaparral	3.7244817	-75.48316369999999	supermarket
-197	237	12	TIENDAS D1	3.7242689	-75.48581089999999	supermarket
-198	238	13	Ara Supermercado	3.7248848	-75.48548439999999	supermarket
-199	239	14	Supermercado Supermercadesa SAS	3.7224396	-75.4871907	supermarket
-200	240	15	Gran Fruver La 10	3.720992	-75.4894041	supermarket
-201	241	16	Surtifruver de colombia	3.7230537	-75.4848501	supermarket
-202	242	17	Justo y Bueno	3.7244824	-75.48315319999999	supermarket
-203	244	19	Servifruver El Nuestro	3.7226175	-75.4845366	supermarket
-204	245	0	COINTRASUR	3.7236028	-75.48544249999999	point_of_interest
-205	246	0	Tolima University	3.7172918	-75.47556999999999	university
-206	247	1	CUN - Corporación Unificada Nacional de Educación Superior	3.7199794	-75.4955239	university
-207	248	2	EDUPOL - POLITECNICO TOLIMENSE	3.7228638	-75.4871747	university
+,geographic_name,latitude,longitude,site_type
+0,Gen Navas Pardo,3.7236886,-75.46751239999999,airport
+1,Cajero Automático Banco de Bogotá,3.724039,-75.485257,atm
+2,Bancolombia Corresponsal Bancario,3.723827,-75.48397899999999,atm
+3,Cajero Bancolombia,3.7257468,-75.4847564,atm
+4,Corresponsal Bancario Bancolombia,3.7232691,-75.4846204,bank
+5,Banco De Bogotá Chaparral,3.7240293,-75.48523159999999,bank
+6,BANCOLOMBIA CHAPARRAL,3.7252698,-75.4853136,bank
+7,Bancamía Chaparral,3.724436,-75.48439499999999,bank
+8,Banco Agrario de Colombia,3.7251926,-75.48502239999999,bank
+9,Davivienda,3.7242418,-75.4847324,bank
+10,Panaderia Taffhur,3.7265791,-75.4730886,bakery
+11,Rokopan La Avenida,3.7198947,-75.4935636,bakery
+12,Rokopan,3.7254593,-75.4849735,bakery
+13,Rokopan Camellon,3.7243294,-75.48039589999999,bakery
+14,California Panaderia,3.7250882,-75.485304,bakery
+15,panaderia y cafeteria Rico Pan,3.724162,-75.4847611,bakery
+16,pasteleria Giordano,3.7244018,-75.4836357,bakery
+17,Supermercado Imperial,3.7222458,-75.4829293,supermarket
+18,SUPERMERCADO LA GAITANA,3.7225522,-75.4841162,supermarket
+19,Parque Central Chaparral,3.7246128,-75.4849155,cafe
+20,WaOo! Frozen,3.7257666,-75.48647749999999,food
+21,Emmanuel,3.7252072,-75.483766,book_store
+22,LILI PINK CHAPARRAL,3.724926,-75.4854395,point_of_interest
+23,San valentín flores y eventos,3.7236416,-75.4863967,florist
+24,All cleaning Tolima,3.7180674,-75.4925317,home_goods_store
