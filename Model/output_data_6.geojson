@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "output_data_6",
-"features": [
-{ "type": "Feature", "properties": { "toponimo_ocr": "este es el testeo", "confidence": 0.82999998331069946, "centroide_longitud": -75.70831942977162, "centroide_latitud": 4.072324226675061 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.71607045152237, 4.073900548969943 ], [ -75.700471002264976, 4.073286397426482 ], [ -75.700593832574086, 4.070747904380179 ], [ -75.716152338395105, 4.071362055923639 ], [ -75.71607045152237, 4.073900548969943 ] ] ] } }
-]
-}
