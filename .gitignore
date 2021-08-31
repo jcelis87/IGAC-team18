@@ -63,3 +63,5 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Model/text_detected.geojson
+Model/text_detected.geojson
