@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .DS_Store
+Model/.DS_Store
 
 # Distribution / packaging
 .Python
