@@ -1,11 +1,25 @@
-# IGAC-team18
-This repository contains the code related to:
-- The model for text recognition
-- Geo database
+# Team 18 - DS4A project
 
-The model is divided into three main stages:
-1. Split a large image into smaller images keeping the coordinates
-2. Use the `east` algorithm on each small image to detect the regions where there is text keeping the coordinates
-3. Split the small image into a set of smaller images containing only text and calculating a point coordinate for the toponym
-4. Run an OCR algorithm (from pytesseract) to convert the smallest images into text
-5. Return the toponyms and coordinates
+The base code for our project is hosted in 3 GitHub repositories. They are divided as follows:
+
+## Model and data sources
+
+url: [https://github.com/jcelis87/IGAC-team18.git](https://github.com/jcelis87/IGAC-team18.git)
+
+Here we have all of our preliminary data analysis, including the extraction of toponyms for Chaparral, Tolima, using Google Maps and Open Street Maps. 
+
+We also have in this repository all the versions of the code that we used to build the model.
+
+## Back-end App
+
+url: [https://github.com/jcelis87/team18-back-end-app.git](https://github.com/jcelis87/team18-back-end-app.git)
+
+In this repository we created an API using the FastAPI library with multiple endpoints that aim to supply the required data for the Front-end.
+
+The model is also hosted here as `model1.py`
+
+## Front-end App
+
+url: [https://github.com/jcelis87/team18-front-end-app.git](https://github.com/jcelis87/team18-front-end-app.git)
+
+In this repository we have our Dash App that consumes the API from the back-end.
