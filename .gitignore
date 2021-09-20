@@ -69,3 +69,5 @@ Model/text_detected.geojson
 .DS_Store
 .DS_Store
 Model/results/~$metrics.xlsx
+Model/.DS_Store
+.DS_Store
